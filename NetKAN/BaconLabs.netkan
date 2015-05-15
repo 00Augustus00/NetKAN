@@ -5,9 +5,9 @@
     "license": "CC-BY-NC-SA-4.0",
 	
 	"recommends":	[ { "name" : "NearFutureSolar" },
-					{ "name" : "DMagicOrbitalScience" } ],
+					{ "name" : "OuterPlanetsMod } ],
 	
-	"suggests"	:	[ { "name" : "NewHorizons" } ],
+	"suggests"	:	[ { "name" : "Trajectories" } ],
 	
 	"install"	:	[ { "find" : "BaconLabs",
 						"install_to" : "GameData" } ]
